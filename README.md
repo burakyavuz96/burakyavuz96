@@ -3,7 +3,8 @@
 
 ## A passionate software Junior Developer from Turkey 
 
-
+- ⚡  I graduated from Kocaeli University, Electrical Engineering. 
+- 🤝 I am interested in software
 - 🌱 I’m currently learning React
 - 📫 How to reach me: burakyavuz96@yandex.com
 - 👨‍💻 All of my projects are available at [https://github.com/burakyavuz96?tab=repositories](https://github.com/burakyavuz96?tab=repositories)
