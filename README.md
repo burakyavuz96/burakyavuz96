@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React
 - 📫 How to reach me: burakyavuz96@yandex.com
-
+- 👨‍💻 All of my projects are available at [https://github.com/burakyavuz96?tab=repositories](https://github.com/burakyavuz96?tab=repositories)
 ### Connect with me: 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][Linkedin]
 
