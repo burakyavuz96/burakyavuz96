@@ -1,5 +1,5 @@
 # Hi 👋, I'm Burak Yavuz :blush:
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">    <---- Tıkla
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">    <---- Click
 
 ## A passionate software Junior Developer from Turkey 
 
